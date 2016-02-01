@@ -1,2 +1,0 @@
-3.0
-{'neomru.vim': {'checked_time': 1453528609, 'installed_uri': 'https://github.com/Shougo/neomru.vim.git', 'installed_path': '/home/cars/.config/nvim/bundle/neomru.vim', 'revisions': {'1453244549': 'e317db0bb40fddc569a3d71d5ed3acb1df4e2da0'}, 'updated_time': '1453244549'}, 'unite.vim': {'checked_time': 1453527320, 'installed_uri': 'https://github.com/Shougo/unite.vim.git', 'installed_path': '/home/cars/.config/nvim/bundle/unite.vim', 'revisions': {'1452999769': 'c9ce3b13c19352e3b791db227aa373c0b028d656'}, 'updated_time': '1452999769'}}
